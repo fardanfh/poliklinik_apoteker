@@ -1,0 +1,5 @@
+@include('Layout.header')
+@include('Layout.navbar')
+@include('Layout.sidebar')
+@include('Layout.footer')
+@include('Layout.content')
